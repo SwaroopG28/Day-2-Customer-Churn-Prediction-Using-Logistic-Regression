@@ -1,11 +1,11 @@
-# 📊 **Customer Churn Prediction Using Logistic Regression**
+#  **Customer Churn Prediction Using Logistic Regression**
 
-## 🚀 **Project Overview**
+##  **Project Overview**
 This project focuses on building a **Customer Churn Prediction Model** using **Logistic Regression**. The goal is to predict whether a customer will churn based on factors like tenure, payment method, contract type, and monthly charges. The dataset is preprocessed, balanced using **SMOTE**, and optimized with **GridSearchCV**.
 
 ---
 
-## 📂 **Dataset Information**
+## **Dataset Information**
 - **Source:** [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Target Variable:** `Churn` (`Yes` or `No`)
 - **Key Features:**  
@@ -17,7 +17,7 @@ This project focuses on building a **Customer Churn Prediction Model** using **L
 
 ---
 
-## ⚙️ **Project Workflow**
+## **Project Workflow**
 
 ### 🔹 **1. Data Preprocessing**
 - Encoded categorical features using **LabelEncoder**.  
